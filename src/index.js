@@ -1,0 +1,1 @@
+import phoneСorrector from './app';
